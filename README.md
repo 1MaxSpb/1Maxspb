@@ -1,5 +1,5 @@
 # 💫 About Me:
-I do data analysis and develop various devices based on the Internet of things.<br>Worked on many projects in Python, C++ and Arduino/<br>Participant of the DANO and PROD Olympiads<br>
+I do data analysis and develop various devices based on the Internet of things.<br>Worked on many projects in Python, C++ and Arduino/<br>Finalist of DANO (Data Analysis National Olympiad)<br>
 Write to me and we'll talk [t.me/max_gus_it](t.me/max_gus_it)
 
 
